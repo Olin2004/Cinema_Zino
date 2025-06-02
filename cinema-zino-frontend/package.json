@@ -19,7 +19,7 @@
     "@emotion/styled": "^11.0.0"
   },
   "devDependencies": {
-    "vite": "^2.0.0",
+    "vite": "^4.5.14",
     "eslint": "^7.0.0",
     "eslint-plugin-react": "^7.0.0"
   },
